@@ -1,0 +1,42 @@
+.overwiew__item{
+    width: 192px;
+    padding: 24px 32px;
+    margin: 0;
+    text-align: center;
+    background: #FFFFFF;
+    border: 1px solid #DFE0EB;
+    border-radius: 8px;
+}
+
+.overwiew__item:hover{
+    border-color: #3751FF;
+}
+
+.overwiew__item:hover .overwiew__itemtitle{
+    color: #3751FF;
+}
+
+.overwiew__item:hover .overwiew__numspan{
+    color: #3751FF;
+}
+
+.overwiew__itemtitle{
+    font-weight: 700;
+    font-size: 19px;
+    line-height: 24px;
+    text-align: center;
+    letter-spacing: 0.4px;
+    color: #9FA2B4;
+    margin: 0;
+    padding: 0;
+}
+
+.overwiew__numspan{
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 50px;
+    text-align: center;
+    letter-spacing: 1px;
+    color: #252733;
+    margin-top: 12px;
+}

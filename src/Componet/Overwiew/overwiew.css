@@ -1,0 +1,163 @@
+.overwiew__section{
+    background-color: #F7F8FC;
+    width: 1120px;
+    margin: 0;
+    padding: 26px 33px 30px 32px;
+}
+
+.overwiew__header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #F7F8FC;
+    margin: 0;
+    padding: 0;
+}
+
+.overwiew__about{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 341px;
+    margin: 0;
+    padding: 0;
+}
+
+.overwiew__info{
+    width: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0;
+    padding-right: 33px;
+    border-right: 1px solid #DFE0EB;
+}
+
+.overwiew__headertitle{
+    margin: 0;
+    padding: 0;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 30px;
+    letter-spacing: 0.3px;
+    color: #252733;
+}
+
+.overwiew__name{
+    margin: 0;
+    padding: 0;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: right;
+    letter-spacing: 0.2px;
+    color: #252733;
+}
+
+
+.overwiew__list{
+    display: flex;
+    margin-top: 58px;
+    padding: 0;
+    list-style: none;
+    justify-content: space-between;
+}
+
+.today{
+    margin: 0;
+    padding: 0;
+    background: #FFFFFF;
+    border: 1px solid #DFE0EB;
+    border-radius: 8px;
+    display: flex;
+}
+
+.today__info{
+    width: 780px;
+    margin: 0;
+    padding: 32px;
+}
+
+.today__infotitle{
+    margin: 0;
+    padding: 0;
+    font-weight: 700;
+    font-size: 19px;
+    line-height: 24px;
+    letter-spacing: 0.4px;
+    color: #252733;
+}
+
+.today__about{
+    margin-top: 8px;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.today__abouttext{
+    margin: 0;
+    padding: 0;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+    letter-spacing: 0.1px;
+    color: #9FA2B4;
+}
+
+.today__aboutlist{
+    width: 200px;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0;
+    padding: 0;
+}
+
+.today__aboutitem{
+    width: 87px;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+}
+
+.today__aboutspan{
+    display: block;
+    width: 16px;
+    height: 1px;
+    background-color: #3751FF;
+}
+
+#span{
+    background-color: #DFE0EB;
+}
+
+.today__aboutitemtext{
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 15px;
+    letter-spacing: 0.1px;
+    color: #9FA2B4;
+    margin: 0;
+    padding: 0;
+}
+
+.today__list{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    list-style: none;
+    border-left: 1px solid #DFE0EB;
+}
+
+.untack{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+    padding: 0;
+}
+

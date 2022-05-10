@@ -1,0 +1,37 @@
+.sitebar{
+    width: 255px;
+    background-color: #363740;
+    padding-bottom: 626px;
+}
+
+.sitebar__header{
+    margin: 0;
+    padding: 37px 32px 0px 32px ;
+    display: flex;
+    align-items: center;
+}
+
+.sitebar__logolink{
+    margin: 0;
+    padding-right: 12px;
+}
+
+.sitebar__logotext{
+    font-weight: 700;
+    font-size: 19px;
+    line-height: 24px;
+    letter-spacing: 0.4px;
+    color: #A4A6B3;
+    opacity: 0.7;
+    margin: 0;
+    padding: 0;
+}
+
+.sitebar__list{
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    margin-top: 60px;
+    padding: 0;
+}
